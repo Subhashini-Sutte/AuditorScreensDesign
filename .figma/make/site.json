@@ -1,0 +1,10 @@
+{
+  "description": "This application streamlines the auditing process by allowing auditors to select branches, lock others, and switch between Branch and Case Audits seamlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
